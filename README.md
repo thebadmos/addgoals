@@ -1,6 +1,4 @@
 # addgoals
-
-AddGoals
 AddGoals is a React Native project representing my initial foray into mobile app development. Drawing from various online tutorials and YouTube resources, 
 I synthesized my learnings to craft this application.
 
